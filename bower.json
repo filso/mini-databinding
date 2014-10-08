@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "dependencies": {
+    "jquery": "~1.10.1",
+    "lodash": "~2.2.1",
+    "bootstrap": "~3.2.0"
+  },
+  "devDependencies": {
+    "jasmine-jquery": "~1.5.93",
+    "jasmine": "~2.0.4"
+  }
+}
